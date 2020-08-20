@@ -1,0 +1,8 @@
+admin:admin
+admin:password
+user:admin
+admin:admin
+root:master
+root:GHc7w5DI3csr6
+root:sa
+user:dragon
